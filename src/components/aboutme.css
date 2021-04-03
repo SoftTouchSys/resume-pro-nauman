@@ -1,0 +1,285 @@
+@import url(//db.onlinewebfonts.com/c/23c0fcab84d99da0de762de7e220a6e1?family=Europa);
+.hero-body{
+    text-align: center;
+}
+.hero-foot{
+    margin-top: 90px;
+    text-align: center;
+    height: 50vh;
+    width: 100%;
+    border: 0px solid ;
+}
+.hero-foot>.container>img{
+    height: 50vh;
+    width: 100%;
+}
+
+.section.is-long {
+    padding-bottom: 14rem;
+    margin-top: 0px;
+}
+.section.is-primary {
+    background-color: #7510F7;
+    color: #fff;
+}
+.section {
+    padding: 2rem 6.5rem;
+}
+
+.has-text-centered {
+    text-align: center !important;
+}
+article, aside, figure, footer, header, hgroup, section {
+    display: block;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+a, abbr, acronym, address, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, ol, output, p, pre, q, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+section {
+    display: block;
+}
+body {
+    color: #141c3a;
+    font-size: 1em;
+    font-weight: 300;
+    line-height: 1.5;
+}
+body, button, input, select, textarea {
+    font-family: "europa", sans-serif;
+}
+body {
+    line-height: 1;
+}
+html {
+    background-color: white;
+    font-size: 16px;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    min-width: 300px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    text-rendering: optimizeLegibility;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+::-webkit-scrollbar {
+    width: 6px;
+    border-left: 1px solid #E6ECF8;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #141c3a;
+}
+.columnsd{
+    
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: -180px;
+    padding: 2%;
+    border: 1px solid gainsboro;
+}
+.columnd{
+    padding: 2%;
+    border-right: 1px solid gainsboro;
+    border-left: 1px solid gainsboro;
+    width: 90%;
+
+}
+.list-title{
+    font-weight: 900;
+    font-size: 18px;
+}
+ul>li{
+    list-style: none;
+    font-size: 16px;
+    margin: 2%;
+}
+.container.is-narrow {
+    max-width: 1200px;
+}
+.container {
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    margin: 0 auto;
+    position: relative;
+    width: auto;
+}
+a, abbr, acronym, address, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, ol, output, p, pre, q, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.section.is-primary {
+    background-color: #7510F7;
+    color: #fff;
+}
+.has-text-centered {
+    text-align: center !important;
+}
+body {
+    color: #141c3a;
+    font-size: 1em;
+    font-weight: 300;
+    line-height: 1.5;
+}
+body, button, input, select, textarea {
+    font-family: "europa", sans-serif;
+}
+body {
+    line-height: 1;
+}
+html {
+    background-color: white;
+    font-size: 16px;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    min-width: 300px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    text-rendering: optimizeLegibility;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+::-webkit-scrollbar {
+    width: 6px;
+    border-left: 1px solid #E6ECF8;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #141c3a;
+}
+
+.section.call-to-action .box {
+    padding: 3.5rem 2rem;
+    margin-top: -9rem;
+    background-color: #141c3a;
+    box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2), 0 0 0 1px #141c3a;
+}
+.box1 {
+    border-radius: 19px;
+}
+.box1 {
+    background-color: #141c3a;
+    border-radius: 6px;
+    box-shadow: 0 5px 5px 0 rgba(233, 240, 243, 0.5), 0 0 0 1px #E6ECF8;
+    color: white;
+    display: flex;
+}
+.level{
+    border-radius: 19px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    box-sizing: border-box;
+    justify-content: space-evenly;
+    text-align: center;
+    padding:1%;
+    box-sizing: border-box;
+}
+.btnstyle{
+    box-sizing: border-box;
+    height: 65px;
+    width: 200px;
+    padding:4% 17%;
+    color: white;
+    border: 1px solid blueviolet;
+    border-radius: 40px;
+    text-decoration: none;
+    margin-top: 10px;
+}
+.level-item{
+    justify-content: center;
+    padding: 0%;
+    text-align: center;
+    box-sizing: border-box;
+    border: 0px solid black;
+    width: 30%;
+    margin-top:10px;    
+}
+.column3{
+    margin-top: 40px;
+    padding: 1%;
+    box-sizing: border-box;
+}
+.column4{
+    padding: 1%;
+    box-sizing: border-box;
+    margin-top: 40px;    
+}
+@media only screen and (max-width:600px){
+    .section {
+        padding: 2rem;
+        text-align: justify;
+    }
+    .section.is-long {
+        padding-bottom: 14rem;
+        margin-top: -60px;
+    }
+    .columnsd{
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+        border: 1px solid gainsboro;
+        border-left: 0px solid black;
+        border-right: 0px solid black;
+    }
+    .columnd{
+        margin:10px;
+        width:97%;    
+        border-bottom: 1px solid gainsboro;
+        border-left: 0px solid black;
+        border-right: 0px solid black;
+        
+    }
+    .nocolumnd{
+        border-bottom: 0px solid gainsboro;
+    }
+    .level{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        padding-bottom:8%
+    }
+    .level-item{
+        width: 100%;
+    }
+}

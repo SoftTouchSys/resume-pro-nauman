@@ -1,0 +1,17 @@
+.icon1{
+    background-color: blue;
+    height: 27px;
+    width: 27px;
+    padding: 4%;
+    border-radius: 12%;
+}
+.icon2{
+    height: 30px;
+    width: 30px;
+}
+.icon3{
+    height: 30px;
+    width: 30px;
+    border-radius: 12%;
+    background-color: #0aaf33;
+}
